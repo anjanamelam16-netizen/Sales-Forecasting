@@ -1,9 +1,8 @@
 # Sales-Forecasting
 
 ## Authors
-- Rudra Panch, IIT Madras
-- Rachit Kumar, IIT Madras
-- Raul Om Deepak, IIT Madras
+- Anjana Melam, IIT Madras
+
 
 ## FB Prophet
 If `plotly` and `prophet` are not pre-installed, run this piece of code at the beginning.
@@ -48,3 +47,4 @@ Install `spark` with the following code. In case, `statsmodels` throws an error,
 !pip install --upgrade statsmodels
 ```
 Download the csv file `Multivariable_sales.csv` provided under the `Smoothing_scalability` folder
+
